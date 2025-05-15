@@ -1,0 +1,7 @@
+           Conversation  Sentiment  Compound Score
+0      I love this new phone!   Positive        0.6696
+1      The service was terrible.   Negative       -0.5267
+2  I'm so excited for the weekend!   Positive        0.4561
+3       This movie was just okay.    Neutral        0.2263
+4           The food was amazing!   Positive        0.6239
+
